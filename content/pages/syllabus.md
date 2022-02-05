@@ -47,10 +47,47 @@ Grading
 
 Grades will be determined as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation and performance | 40% |
-| Four tests | 40% |
-| Vocabulary quizzes and compositions | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation and performance
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four tests
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Vocabulary quizzes and compositions
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Note: Homework assignments are included in the grade for class participation and performance. To be credited toward this grade, all homework must be handed in **on the day it is due**. There will be **no** final exam.

@@ -153,32 +153,279 @@ Podcasts
 
 Note: Some iTunes links may not be available from all geographic areas.
 
-| NETWORK | PROGRAM | LINKS |
-| --- | --- | --- |
-| Tagesschau | Podcasts | (Video) (Audio) ([iTunes Video](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=92538468)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=78518945)) |
-| ZDF - Heute Journal | Podcasts | ([Video](http://podcast.heute.de/journal-video.xml)) ([Audio](http://podcast.heute.de/journal-audio.xml)) ([iTunes Video](http://www.heute.de/ZDFheute/inhalt/21/0,3672,5248821,00.html)) ([iTunes Audio](http://www.heute.de/ZDFheute/inhalt/21/0,3672,5248821,00.html)) |
-| [Deutsche Welle](http://www.dw-world.de/dw/0,2142,9540,00.html) | Made in Germany | ([Video](http://blogs.dw-world.de/madeingermany/rss2.xml)) ([iTunes Video](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=208317025)) |
-| Nachrichten in Kürze | ([Audio](http://rss.dw-world.de/xml/podcast_nachrichten)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=181306049)) |
-| Nachrichten - Langsam | ([Audio](http://rss.dw-world.de/xml/podcast_langsam_gesprochene_nachrichten)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=80106652)) |
-| Journal - Interview | ([Audio](http://blogs.dw-world.de/journal/rss2.xml)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=109050849&s=143443)) |
-| Stichwort | ([Audio](http://rss.dw-world.de/xml/podcast_stichwort)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=108997412)) |
-| Sprachbar | ([Audio](http://rss.dw-world.de/xml/podcast_sprachbar)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=80105914)) |
-| Alltagsdeutsch | ([Audio](http://rss.dw-world.de/xml/podcast_alltagsdeutsch)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=109002920)) |
-| [Deutschlandfunk / Deutschland Radio Kultur](https://www.deutschlandradio.de/) | Nachrichten | ([Audio](http://www.dradio.de/rss/podcast/nachrichten/)) ([iTunes Audio](http://www.dradio.de/rss/podcast/nachrichten/?mode=text)) |
-| Informationen am Morgen | ([Audio](http://www.dradio.de/rss/podcast/sendungen/informationenammorgen/)) |
-| [ARD](https://web.archive.org/web/20130412164215/http://www.ardmediathek.de/) | &nbsp; |
-| [BR-online](http://www.br-online.de/podcast/) | &nbsp; |
-| WDR ([Video](http://www.wdr.de/tv/podcast/)) ([Audio](http://www.wdr.de/radio/home/podcasts/index.phtml)) | Eins Live - Die Woche | ([Audio](http://www.podcast.de/rss/episoden/podcast/4194)) |
-| WDR3 Themen des Tages | ([Audio](http://podcast.wdr.de/radio/themendestages.xml)) |
-| [SWR](http://www.swr.de) | &nbsp; |
-| [HR](http://www.hr-online.de/website/radio/home/index.jsp?rubrik=15736) | &nbsp; |
-| [Schweizer Radio DRS](http://www.drs.ch/www/de/drs/podcasts.html) | Echo der Zeit | ([Audio](http://pod.drs.ch/echo_der_zeit_mpx.xml)) |
-| HeuteMorgen | ([Audio](http://pod.drs.ch/heutemorgen_mpx.xml)) |
-| Tagesgespräch | ([Audio](http://pod.drs.ch/tagesgesprach_mpx.xml)) |
-| [Schweizer Fernsehen](http://www.sf.tv/podcasts/index.php) | [Einstein](http://www.sf.tv/sf1/einstein/index.php) Podcast | ([Video](http://feeds.sf.tv/podcast/einstein)) |
-| [Kassensturz](http://www.sf.tv/sendungen/kassensturz/index.php) Podcast | ([Video](http://feeds.sf.tv/podcast/kassensturz)) |
-| SF Rundschau | Podcast | ([Video](http://www.sf.tv/podcasts/data/rundschau.xml)) |
-| [Ö3 - Österreichischer Rundfunk](https://web.archive.org/web/20130831032133/http://oe3.orf.at/extra/stories/212909/) | Ö3 - Nachrichten | ([Audio](http://static.orf.at/oe3/podcast/oe3_nachrichten.xml)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+NETWORK
+{{< thclose >}}
+{{< thopen >}}
+PROGRAM
+{{< thclose >}}
+{{< thopen >}}
+LINKS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tagesschau
+{{< tdclose >}}
+{{< tdopen >}}
+Podcasts
+{{< tdclose >}}
+{{< tdopen >}}
+(Video) (Audio) ([iTunes Video](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=92538468)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=78518945))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ZDF - Heute Journal
+{{< tdclose >}}
+{{< tdopen >}}
+Podcasts
+{{< tdclose >}}
+{{< tdopen >}}
+([Video](http://podcast.heute.de/journal-video.xml)) ([Audio](http://podcast.heute.de/journal-audio.xml)) ([iTunes Video](http://www.heute.de/ZDFheute/inhalt/21/0,3672,5248821,00.html)) ([iTunes Audio](http://www.heute.de/ZDFheute/inhalt/21/0,3672,5248821,00.html))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Deutsche Welle](http://www.dw-world.de/dw/0,2142,9540,00.html)
+{{< tdclose >}}
+{{< tdopen >}}
+Made in Germany
+{{< tdclose >}}
+{{< tdopen >}}
+([Video](http://blogs.dw-world.de/madeingermany/rss2.xml)) ([iTunes Video](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=208317025))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nachrichten in Kürze
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://rss.dw-world.de/xml/podcast_nachrichten)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=181306049))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Nachrichten - Langsam
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://rss.dw-world.de/xml/podcast_langsam_gesprochene_nachrichten)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=80106652))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journal - Interview
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://blogs.dw-world.de/journal/rss2.xml)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=109050849&s=143443))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Stichwort
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://rss.dw-world.de/xml/podcast_stichwort)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=108997412))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sprachbar
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://rss.dw-world.de/xml/podcast_sprachbar)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=80105914))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Alltagsdeutsch
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://rss.dw-world.de/xml/podcast_alltagsdeutsch)) ([iTunes Audio](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=109002920))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Deutschlandfunk / Deutschland Radio Kultur](https://www.deutschlandradio.de/)
+{{< tdclose >}}
+{{< tdopen >}}
+Nachrichten
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://www.dradio.de/rss/podcast/nachrichten/)) ([iTunes Audio](http://www.dradio.de/rss/podcast/nachrichten/?mode=text))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Informationen am Morgen
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://www.dradio.de/rss/podcast/sendungen/informationenammorgen/))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[ARD](https://web.archive.org/web/20130412164215/http://www.ardmediathek.de/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[BR-online](http://www.br-online.de/podcast/)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+WDR ([Video](http://www.wdr.de/tv/podcast/)) ([Audio](http://www.wdr.de/radio/home/podcasts/index.phtml))
+{{< tdclose >}}
+{{< tdopen >}}
+Eins Live - Die Woche
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://www.podcast.de/rss/episoden/podcast/4194))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+WDR3 Themen des Tages
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://podcast.wdr.de/radio/themendestages.xml))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[SWR](http://www.swr.de)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[HR](http://www.hr-online.de/website/radio/home/index.jsp?rubrik=15736)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Schweizer Radio DRS](http://www.drs.ch/www/de/drs/podcasts.html)
+{{< tdclose >}}
+{{< tdopen >}}
+Echo der Zeit
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://pod.drs.ch/echo_der_zeit_mpx.xml))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+HeuteMorgen
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://pod.drs.ch/heutemorgen_mpx.xml))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tagesgespräch
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://pod.drs.ch/tagesgesprach_mpx.xml))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Schweizer Fernsehen](http://www.sf.tv/podcasts/index.php)
+{{< tdclose >}}
+{{< tdopen >}}
+[Einstein](http://www.sf.tv/sf1/einstein/index.php) Podcast
+{{< tdclose >}}
+{{< tdopen >}}
+([Video](http://feeds.sf.tv/podcast/einstein))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Kassensturz](http://www.sf.tv/sendungen/kassensturz/index.php) Podcast
+{{< tdclose >}}
+{{< tdopen >}}
+([Video](http://feeds.sf.tv/podcast/kassensturz))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+SF Rundschau
+{{< tdclose >}}
+{{< tdopen >}}
+Podcast
+{{< tdclose >}}
+{{< tdopen >}}
+([Video](http://www.sf.tv/podcasts/data/rundschau.xml))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Ö3 - Österreichischer Rundfunk](https://web.archive.org/web/20130831032133/http://oe3.orf.at/extra/stories/212909/)
+{{< tdclose >}}
+{{< tdopen >}}
+Ö3 - Nachrichten
+{{< tdclose >}}
+{{< tdopen >}}
+([Audio](http://static.orf.at/oe3/podcast/oe3_nachrichten.xml))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Goethe Resources
 ----------------
