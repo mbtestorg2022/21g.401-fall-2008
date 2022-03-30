@@ -4,6 +4,7 @@ description: "This resource contains the information regarding pr\xE4positionen 
   \ dativ."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-401-german-i-fall-2008/49bf8d5ec44eaab49860ca3bd4ace7bd_MIT21G_401F08_dativ_pra.pdf
 file_type: application/pdf
+parent_uid: b0ca1507-cf3d-dcef-45ce-f688a86a6079
 resourcetype: Document
 title: "Pr\xE4positionen mit Dativ"
 uid: 49bf8d5e-c44e-aab4-9860-ca3bd4ace7bd
